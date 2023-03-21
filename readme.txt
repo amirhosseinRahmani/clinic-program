@@ -1,4 +1,4 @@
-***Clinic folder is whole project source code you can import folder into your IDE to make changes.project has three main file: main,top_level,sqlite_db . 
+***Clinic folder is the whole project source code. you can import folder into your IDE to make changes.project has three main file: main,top_level,sqlite_db . 
                                                    
    #main file is the main class for first pop up page.
    #top_level file is used to show informations of patient in a top window.
