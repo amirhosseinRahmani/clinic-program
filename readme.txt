@@ -5,7 +5,7 @@
    #sqlite_db file is for connecting , show data , and other operations on database.
 
 
-
+****exe folder is the executive file of program . remember that you should download whole exe file because other files are needed for running the program
 
 
 
